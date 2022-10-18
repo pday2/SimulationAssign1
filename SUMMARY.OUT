@@ -1,0 +1,17 @@
+Fit All
+
+Document:  C:\Users\peter\My Tresors\Documentsacer\KULeuven\Simulation\HW1\Data - Unloading times.txt
+Data File: C:\Users\peter\My Tresors\Documentsacer\KULeuven\Simulation\HW1\Data - Unloading times.txt
+
+
+Function       Sq Error
+-----------------------
+Lognormal      0.00481
+Gamma          0.00535
+Erlang         0.00539
+Beta           0.00791
+Normal         0.00923
+Weibull        0.0113
+Triangular     0.0248
+Uniform        0.0555
+Exponential    0.0661

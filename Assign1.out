@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                          peter.day@student.kuleuven.be - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Assignment 1 Team 3                                         Run execution date :10/18/2022
+Analyst: peter.day@student.kuleuven.be                               Model revision date:10/18/2022
+
+Replication ended at time      : 778.67254 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+slab.VATime                                 7.7867     (Insuf)    2.1858     12.318        100    
+slab.NVATime                                .00000     (Insuf)    .00000     .00000        100    
+slab.WaitTime                               173.39     (Insuf)    .00000     310.11        100    
+slab.TranTime                               .00000     (Insuf)    .00000     .00000        100    
+slab.OtherTime                              .00000     (Insuf)    .00000     .00000        100    
+slab.TotalTime                              181.17     (Insuf)    6.9461     316.93        100    
+Reheat.Queue.WaitingTime                    174.79     (Insuf)    .00000     314.92        101    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+slab.WIP                                    38.777     (Insuf)    .00000     72.000     71.000    
+Furnace.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
+Furnace.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Furnace.Utilization                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Reheat.Queue.NumberInQueue                  37.777     (Insuf)    .00000     71.000     70.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+slab.NumberIn                               171.00    
+slab.NumberOut                              100.00    
+Furnace.NumberSeized                        101.00    
+Furnace.ScheduledUtilization                1.0000    
+System.NumberOut                            100.00    
+
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.

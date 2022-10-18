@@ -1,0 +1,7 @@
+[RESOURCES]
+Furnace
+[VARIABLES]
+Arrival from slab casting.NumberOut
+Reheat.NumberIn
+Reheat.NumberOut
+Ship to rolling mill.NumberOut
