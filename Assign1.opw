@@ -2,6 +2,8 @@
 Furnace
 [VARIABLES]
 Arrival from slab casting.NumberOut
+Batch 1.NumberOut
+Separate 1.NumberOut Orig
 Reheat.NumberIn
 Reheat.NumberOut
 Ship to rolling mill.NumberOut
