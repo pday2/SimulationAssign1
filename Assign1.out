@@ -4,10 +4,10 @@
 
                                   Summary for Replication 1 of 1
 
-Project: Assignment 1 Team 3                                         Run execution date :10/18/2022
-Analyst: peter.day@student.kuleuven.be                               Model revision date:10/18/2022
+Project: Assignment 1 Team 3                                         Run execution date :10/19/2022
+Analyst: peter.day@student.kuleuven.be                               Model revision date:10/19/2022
 
-Replication ended at time      : 491.7141 Hours 
+Replication ended at time      : 516.44288 Hours 
 Base Time Units: Hours
 
                                            TALLY VARIABLES
@@ -15,38 +15,38 @@ Base Time Units: Hours
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
-slab.VATime                                 7.6693     (Insuf)    1.5519     11.380        102    
-slab.NVATime                                .00000     (Insuf)    .00000     .00000        102    
-slab.WaitTime                               11.772     (Insuf)    .00000     50.782        102    
-slab.TranTime                               .00000     (Insuf)    .00000     .00000        102    
-slab.OtherTime                              .00000     (Insuf)    .00000     .00000        102    
-slab.TotalTime                              19.442     (Insuf)    1.5519     58.516        102    
-Batch 1.Queue.WaitingTime                   11.735     (Insuf)    .00000     50.782        102    
-Reheat.Queue.WaitingTime                    .03753     (Insuf)    .00000     .63794         17    
+slab.VATime                                 7.4491     (Insuf)    1.5519     12.752        100    
+slab.NVATime                                .00000     (Insuf)    .00000     .00000        100    
+slab.WaitTime                               15.418     (Insuf)    .00000     65.273        100    
+slab.TranTime                               .00000     (Insuf)    .00000     .00000        100    
+slab.OtherTime                              .00000     (Insuf)    .00000     .00000        100    
+slab.TotalTime                              22.868     (Insuf)    1.5519     68.946        100    
+Batch 1.Queue.WaitingTime                   19.480     (Insuf)    .00000     60.629         66    
+Reheat.Queue.WaitingTime                    .94869     (Insuf)    .00000     8.3929         45    
 
                                      DISCRETE-CHANGE VARIABLES
 
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-slab.WIP                                    4.3036     (Insuf)    .00000     14.000     1.0000    
-Furnace.NumberBusy                          .26515     (Insuf)    .00000     1.0000     .00000    
+slab.WIP                                    4.6891     (Insuf)    .00000     14.000     3.0000    
+Furnace.NumberBusy                          .65924     (Insuf)    .00000     1.0000     .00000    
 Furnace.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Furnace.Utilization                         .26515     (Insuf)    .00000     1.0000     .00000    
-Batch 1.Queue.NumberInQueue                 2.4385     (Insuf)    .00000     6.0000     1.0000    
-Reheat.Queue.NumberInQueue                  .00130     (Insuf)    .00000     1.0000     .00000    
+Furnace.Utilization                         .65924     (Insuf)    .00000     1.0000     .00000    
+Batch 1.Queue.NumberInQueue                 2.5114     (Insuf)    .00000     6.0000     3.0000    
+Reheat.Queue.NumberInQueue                  .08266     (Insuf)    .00000     1.0000     .00000    
 
                                              OUTPUTS
 
 Identifier                                   Value
 _____________________________________________________________
 
-slab.NumberIn                               120.00    
-slab.NumberOut                              119.00    
-Furnace.NumberSeized                        17.000    
-Furnace.ScheduledUtilization                .26515    
-System.NumberOut                            102.00    
+slab.NumberIn                               114.00    
+slab.NumberOut                              111.00    
+Furnace.NumberSeized                        45.000    
+Furnace.ScheduledUtilization                .65924    
+System.NumberOut                            100.00    
 
 
-Simulation run time: 0.22 minutes.
+Simulation run time: 2.08 minutes.
 Simulation run complete.

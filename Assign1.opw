@@ -1,9 +1,11 @@
 [RESOURCES]
 Furnace
 [VARIABLES]
+Decide 3.NumberOut False
 Arrival from slab casting.NumberOut
 Batch 1.NumberOut
 Separate 1.NumberOut Orig
 Reheat.NumberIn
 Reheat.NumberOut
 Ship to rolling mill.NumberOut
+Decide 3.NumberOut True
