@@ -1,0 +1,61 @@
+
+                                      ARENA Simulation Results
+                          peter.day@student.kuleuven.be - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :10/24/2022
+Analyst: Kylan Young                                                 Model revision date:10/24/2022
+
+Replication ended at time      : 429.91869 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Slab.VATime                                 8.3318     (Insuf)    3.8201     12.740        100    
+Slab.NVATime                                .00000     (Insuf)    .00000     .00000        100    
+Slab.WaitTime                               5.2241     (Insuf)    .00000     20.814        100    
+Slab.TranTime                               .00000     (Insuf)    .00000     .00000        100    
+Slab.OtherTime                              .00000     (Insuf)    .00000     .00000        100    
+Slab.TotalTime                              13.555     (Insuf)    4.3657     29.097        100    
+Batch slabs and release batch count when f  4.8249     (Insuf)    .00000     20.795        102    
+Unload slabs from furnace.Queue.WaitingTim  .32351     (Insuf)    .00000     1.4789        101    
+Reheat slabs in furnace.Queue.WaitingTime   .00000     (Insuf)    .00000     .00000         35    
+Load slabs in furnace.Queue.WaitingTime     .04473     (Insuf)    .00000     1.1345        103    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Slab.WIP                                    3.8681     (Insuf)    .00000     9.0000     4.0000    
+Furnace.NumberBusy                          .62730     (Insuf)    .00000     1.0000     .00000    
+Furnace.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Furnace.Utilization                         .62730     (Insuf)    .00000     1.0000     .00000    
+Operator.NumberBusy                         .15984     (Insuf)    .00000     1.0000     1.0000    
+Operator.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operator.Utilization                        .15984     (Insuf)    .00000     1.0000     1.0000    
+Batch slabs and release batch count when f  1.1632     (Insuf)    .00000     6.0000     1.0000    
+Unload slabs from furnace.Queue.NumberInQu  .07694     (Insuf)    .00000     6.0000     1.0000    
+Reheat slabs in furnace.Queue.NumberInQueu  .00000     (Insuf)    .00000     .00000     .00000    
+Load slabs in furnace.Queue.NumberInQueue   .01124     (Insuf)    .00000     1.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Slab.NumberIn                               139.00    
+Slab.NumberOut                              135.00    
+Furnace.NumberSeized                        35.000    
+Furnace.ScheduledUtilization                .62730    
+Operator.NumberSeized                       204.00    
+Operator.ScheduledUtilization               .15984    
+System.NumberOut                            100.00    
+
+
+Simulation run time: 0.13 minutes.
+Simulation run complete.

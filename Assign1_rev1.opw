@@ -1,0 +1,15 @@
+[RESOURCES]
+Furnace
+[VARIABLES]
+LoadSlabs.NumberOut
+LoadSlabs.NumberIn
+Arrival from slab casting.NumberOut
+batchSize
+Adjustable Batch 1.NumberOut
+unloadSlabs.NumberOut
+unloadSlabs.NumberIn
+Adjustable Batch 1.TempSize
+Separate 2.NumberOut Orig
+Reheat.NumberIn
+Reheat.NumberOut
+Ship to rolling mill.NumberOut

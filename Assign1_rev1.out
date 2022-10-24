@@ -1,0 +1,54 @@
+SIMAN Run Controller.
+
+37.867058 Hours>
+                                      ARENA Simulation Results
+                          peter.day@student.kuleuven.be - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Assignment 1 Team 3                                         Run execution date :10/22/2022
+Analyst: peter.day@student.kuleuven.be                               Model revision date:10/22/2022
+
+Replication ended at time      : 37.867058 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+slab.VATime                                 12.005     (Insuf)    8.8977     13.581         14    
+slab.NVATime                                .00000     (Insuf)    .00000     .00000         14    
+slab.WaitTime                               3.8566     (Insuf)    .00000     10.687         14    
+slab.TranTime                               .00000     (Insuf)    .00000     .00000         14    
+slab.OtherTime                              .00000     (Insuf)    .00000     .00000         14    
+slab.TotalTime                              15.862     (Insuf)    11.466     21.121         14    
+Adjustable Batch 1.Queue.WaitingTime        3.4550     (Insuf)    .00000     10.687         14    
+Reheat.Queue.WaitingTime                    .31231     (Insuf)    .00000     .93693          3    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+slab.WIP                                    6.7857     (Insuf)    .00000     10.000     .00000    
+Furnace.NumberBusy                          .81475     (Insuf)    .00000     1.0000     .00000    
+Furnace.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Furnace.Utilization                         .81475     (Insuf)    .00000     1.0000     .00000    
+Adjustable Batch 1.Queue.NumberInQueue      1.2773     (Insuf)    .00000     6.0000     .00000    
+Reheat.Queue.NumberInQueue                  .02474     (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+slab.NumberIn                               18.000    
+slab.NumberOut                              18.000    
+Furnace.NumberSeized                        3.0000    
+Furnace.ScheduledUtilization                .81475    
+System.NumberOut                            14.000    
+
+
+Simulation run time: 0.40 minutes.
+Simulation run complete.
