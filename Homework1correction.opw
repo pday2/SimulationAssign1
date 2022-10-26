@@ -1,0 +1,18 @@
+[RESOURCES]
+Furnace
+Operator
+[VARIABLES]
+Slabs leave the system.NumberOut
+Batch slabs and release batch count when furnace is open.NumberOut
+Slabs_in_furnace
+BatchCount
+Unload slabs from furnace.NumberIn
+Unload slabs from furnace.NumberOut
+Separate batch to prepare for individual loading.NumberOut Orig
+Load slabs in furnace.NumberIn
+Load slabs in furnace.NumberOut
+Reheat slabs in furnace.NumberOut
+Separate slab batch for individual unloading.NumberOut Orig
+Batch slabs for reheating.NumberOut
+Reheat slabs in furnace.NumberIn
+Arrival of slabs.NumberOut
